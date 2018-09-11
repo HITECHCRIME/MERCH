@@ -1,7 +1,9 @@
 # HITECH CRIME MERCHANDISE & GOODIES
 
-
-- Hitech Crime stickers (logo only)
-- Hitech Crime stickers (logo + name)
-- Hitech Crime velcro patch (transfer film on nylon)
-- Hitech Crime branded techwear
+- Logo Stickers
+- Logo + Name Stickers
+- Name Velcro Patch (Transfer Film on Nylon)
+- Logo Velcro Patch (Transfer Film on Nylon)
+- Digital Brutalism Visuals T-shirt
+- Digital Brutalism Visuals + Logo T-shirt
+- Branded techwear
