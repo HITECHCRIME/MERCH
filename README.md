@@ -10,3 +10,5 @@
 - Lost Net Visuals + Logo T-shirt
 - Branded techwear
 - Logo Hoodie (hood placement + frontal)
+
+Each song can have its own line and visuals.
