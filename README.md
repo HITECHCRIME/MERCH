@@ -12,4 +12,4 @@
 - Logo Hoodie (hood placement + frontal)
 
 Each song can have its own line and visuals for the sake of variation of designs and amount of options.
-In turn this could backlash in terms of logistics unless outsourced to a merch production company.
+In turn this could backlash in terms of logistics unless outsourced to a merch production company. Threadless?
