@@ -10,7 +10,7 @@
 - Lost Net Visuals + Logo T-shirt
 - Branded techwear
 - Logo Hoodie (hood placement + frontal)
-- Mantra Bracelet
+- Mantra Bracelet (Chakram)
 - Flag/Banner
 
 Each song can have its own line and visuals for the sake of variation of designs and amount of options.
